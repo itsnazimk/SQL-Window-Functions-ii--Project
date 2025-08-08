@@ -1,16 +1,31 @@
 # SQL-Window-Functions-ii--Project
-This hands-on project is your one-stop guide to understanding and applying SQL Window Functions using MySQL Workbench. Whether you're a student, analyst, or interview candidate — this .sql file covers the most in-demand and tricky SQL concepts with clean, real-world examples.
 
-This hands-on project is your one-stop guide to understanding and applying SQL Window Functions using MySQL Workbench. Whether you're a student, analyst, or interview candidate — this .sql file covers the most in-demand and tricky SQL concepts with clean, real-world examples.
+This comprehensive hands-on SQL project built to master Window Functions in MySQL. This dataset-driven practice set includes over 20+ real-world SQL problems designed around a 100-row custom dataset, simulating real-life business use cases such as car sales trends, rankings, cumulative totals, and more.
 
-📦 Practical Concepts: 📊 Aggregate Functions with OVER() → MAX(), MIN(), SUM(), AVG() across partitions
 
-🏅 Ranking Functions → ROW_NUMBER(), RANK(), DENSE_RANK(), PERCENT_RANK()
 
-🔁 Analytical Functions → LEAD(), LAG() to compare rows
+🔍 What's Inside:
 
-🔍 Value Functions → FIRST_VALUE(), LAST_VALUE() with partition control
+✅ A realistic dataset car_sales with 90+ rows.
 
-🧮 NTILE() → Divide data into quartiles or logical buckets
+✅ 20+ SQL queries using ROW_NUMBER(), RANK(), LEAD(), LAG(), NTILE(), FIRST_VALUE(), LAST_VALUE(), SUM() OVER, AVG() OVER, and more.
 
-🎯 Level Up Your SQL Skills with this practical project!
+✅ .sql file ready to import into MySQL Workbench
+
+✅ Covers ranking, running totals, partitions and real-time comparisons
+
+
+
+
+💡 Use Cases Covered:
+
+🟢 dentify the top-selling cars per fuel type.
+
+🟢 Compare sales across years using LAG and LEAD.
+
+🟢 Calculate cumulative and moving averages.
+
+🟢 Rank vehicles based on mileage and engine power.
+
+🟢 Segment data with NTILE for quartile-based analytics.
+
