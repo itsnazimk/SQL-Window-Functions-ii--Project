@@ -1,4 +1,7 @@
 # SQL-Window-Functions-ii--Project
+---
+3
+---
 
 This comprehensive hands-on SQL project built to master Window Functions in MySQL. This dataset-driven practice set includes over 20+ real-world SQL problems designed around a 100-row custom dataset, simulating real-life business use cases such as car sales trends, rankings, cumulative totals, and more.
 
